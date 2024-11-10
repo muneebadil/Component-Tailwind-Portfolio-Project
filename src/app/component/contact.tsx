@@ -62,7 +62,7 @@ const Contact = () => {
               </div>
               <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
                 <a href="mailto:mohammadmuneeb197@email.com" className="text-indigo-500">
-                  mohammadmuneeb197@email.com
+                  asgharbaba1924@email.com
                 </a>
                 <p className="leading-normal my-5">
                   Garden West

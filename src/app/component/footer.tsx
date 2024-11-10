@@ -10,9 +10,9 @@ const Footer = () => {
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
           {/* Logo Section */}
           <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-            <Image src="/data/pic/muneebpic.png"
+            <Image src="/data/pic/mypic.png"
             alt="Muneeb" width={50} height={50} className="rounded-full" />
-            <span className="ml-3 text-xl font-semibold">Muneeb Adil</span>
+            <span className="ml-3 text-xl font-semibold">Asghar Ali Adil</span>
           </a>
           
           {/* Social Icons */}
@@ -26,7 +26,7 @@ const Footer = () => {
           </span>
         </div>
         <div className="text-center py-4 text-gray-700 text-sm bg-blue-300">
-          © {new Date().getFullYear()} Muneeb Adil. All rights reserved.
+          © {new Date().getFullYear()} Asghar Ali Adil. All rights reserved.
         </div>
       </footer>
     </div>

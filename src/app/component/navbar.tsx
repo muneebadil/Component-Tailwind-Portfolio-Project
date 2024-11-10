@@ -11,13 +11,13 @@ const Navbar = () => {
         <div className="flex items-center">
           <Image 
             // src={require("../../../public/data/pic/muneebpic.png")} 
-           src="/data/pic/muneebpic.png"
+           src="/data/pic/mypic.png"
             alt="Muneeb Adil's profile picture" 
             width={50} 
             height={50} 
             className="rounded-full border-2 border-white"
           />
-          <span className="ml-3 text-2xl font-semibold">MUNEEB ADIL</span>
+          <span className="ml-3 text-2xl font-semibold">ASGHAR ALI ADIL</span>
         </div>
         
         {/* Navigation Links */}
@@ -25,13 +25,13 @@ const Navbar = () => {
           <Link href="/" className="hover:text-yellow-300 transition duration-300">
             HOME
           </Link>
-          <Link href="#About" className="hover:text-yellow-300 transition duration-300">
+          <Link href="#aboutus" className="hover:text-yellow-300 transition duration-300">
             ABOUT
           </Link>
           <Link href="#Contact" className="hover:text-yellow-300 transition duration-300">
             CONTACT
           </Link>
-          <Link href="#Project" className="hover:text-yellow-300 transition duration-300">
+          <Link href="#Projects" className="hover:text-yellow-300 transition duration-300">
             PROJECTS
           </Link>
 
@@ -52,3 +52,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

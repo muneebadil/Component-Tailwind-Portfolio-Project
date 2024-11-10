@@ -13,11 +13,11 @@ const Hero = () => {
             <h1 className="title-font sm:text-5xl text-4xl mb-4 font-bold text-gray-900">
               I AM
               <br className="hidden lg:inline-block" />
-              MOHAMMAD MUNEEB ADIL
+              ASGHAR ALI ADIL
             </h1>
             <div className="w-[150px] h-[3px] bg-gray-800 my-4"></div>
             <p className="mb-8 leading-relaxed text-gray-700 text-lg">
-              Professional Digital Marketer and SEO Expert with over 5 years of experience. Currently exploring the Metaverse and Web 3.0 from Governor House Sindh. <br /> Skilled in HTML, CSS, JavaScript, TypeScript, Node, React, and Next.js.
+              Professional Graphics Designer and 3d animator with over 5 years of experience. Currently exploring the Metaverse and Web 3.0 from Governor House Sindh. <br /> Skilled in HTML, CSS, JavaScript, TypeScript, Node, React, and Next.js.
             </p>
             <div className="flex justify-center md:justify-start">
               <Link href="#Contact">
@@ -35,7 +35,7 @@ const Hero = () => {
               alt="Mohammad Muneeb Adil"
               width={400}
               height={400}
-              src="/data/pic/muneebpic.png"
+              src="/data/pic/mypic.png"
             />
           </div>
         </div>
