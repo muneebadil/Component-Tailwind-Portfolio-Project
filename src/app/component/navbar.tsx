@@ -10,7 +10,8 @@ const Navbar = () => {
         {/* Logo and Name */}
         <div className="flex items-center">
           <Image 
-            src={require("../../../public/data/pic/muneebpic.png")} 
+            // src={require("../../../public/data/pic/muneebpic.png")} 
+           src="/data/pic/muneebpic.png"
             alt="Muneeb Adil's profile picture" 
             width={50} 
             height={50} 

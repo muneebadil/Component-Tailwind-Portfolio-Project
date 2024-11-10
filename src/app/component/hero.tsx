@@ -35,7 +35,7 @@ const Hero = () => {
               alt="Mohammad Muneeb Adil"
               width={400}
               height={400}
-              src={require("../../../public/data/pic/muneebpic.png")}
+              src="/data/pic/muneebpic.png"
             />
           </div>
         </div>

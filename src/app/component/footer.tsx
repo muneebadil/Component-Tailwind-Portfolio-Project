@@ -10,7 +10,8 @@ const Footer = () => {
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
           {/* Logo Section */}
           <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-            <Image src={require("../../../public/data/pic/muneebpic.png")} alt="Muneeb" width={50} height={50} className="rounded-full" />
+            <Image src="/data/pic/muneebpic.png"
+            alt="Muneeb" width={50} height={50} className="rounded-full" />
             <span className="ml-3 text-xl font-semibold">Muneeb Adil</span>
           </a>
           
